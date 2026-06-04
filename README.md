@@ -1,4 +1,4 @@
-# Práctica 1 - Sistemas Distribuidos
+# Práctica 1 - Sistemas Distribuidos (3º curso)
 
 ## Descripción
 
